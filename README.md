@@ -1,0 +1,2 @@
+# GeoAI_and_DL_Seminar_Uni_HD_6
+SketchMapTool Mask Segmentation
